@@ -9,11 +9,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
-* [Perl](https://www.perl.org/) - The scripting language used
-
-## Authors
-
-* **Your Name** - *Initial work* - [YourGithub](https://github.com/yourgithub)
+* Prolog - The scripting language used
 
 ## License
 
