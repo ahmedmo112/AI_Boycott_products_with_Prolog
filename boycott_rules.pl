@@ -10,6 +10,7 @@
 :-dynamic alternative/2.
 :-dynamic boycott_company/2.
 
+
 len([],0).
 len([_|Tail], N):-
     len(Tail, TmpN),
